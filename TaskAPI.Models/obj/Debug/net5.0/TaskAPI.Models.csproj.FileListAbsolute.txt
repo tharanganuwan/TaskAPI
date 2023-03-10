@@ -1,0 +1,12 @@
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\bin\Debug\net5.0\TaskAPI.Models.deps.json
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\bin\Debug\net5.0\TaskAPI.Models.dll
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\bin\Debug\net5.0\ref\TaskAPI.Models.dll
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\bin\Debug\net5.0\TaskAPI.Models.pdb
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\TaskAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\TaskAPI.Models.AssemblyInfoInputs.cache
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\TaskAPI.Models.AssemblyInfo.cs
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\TaskAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\TaskAPI.Models.dll
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\ref\TaskAPI.Models.dll
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\TaskAPI.Models.pdb
+C:\Users\Nuwan Tharanga\Desktop\.net\TaskAPI.Models\obj\Debug\net5.0\TaskAPI.Models.csproj.AssemblyReference.cache

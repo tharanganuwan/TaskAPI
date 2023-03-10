@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Services\\TaskAPI.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj",
+        "projectName": "TaskAPI.DataAccess",
+        "projectPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Nuwan Tharanga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuwan Tharanga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\TaskAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\TaskAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\TaskAPI.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\TaskAPI.Models.csproj",
+        "projectName": "TaskAPI.Models",
+        "projectPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\TaskAPI.Models.csproj",
+        "packagesPath": "C:\\Users\\Nuwan Tharanga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuwan Tharanga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Services\\TaskAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Services\\TaskAPI.Services.csproj",
+        "projectName": "TaskAPI.Services",
+        "projectPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Services\\TaskAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\Nuwan Tharanga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nuwan Tharanga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.DataAccess\\TaskAPI.DataAccess.csproj"
+              },
+              "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\TaskAPI.Models.csproj": {
+                "projectPath": "C:\\Users\\Nuwan Tharanga\\Desktop\\.net\\TaskAPI.Models\\TaskAPI.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
